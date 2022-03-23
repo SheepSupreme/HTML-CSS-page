@@ -1,0 +1,156 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: #598392;
+}
+
+.givehead {
+	font-size: 100px;
+	font-family: 'Squada One', cursive;
+	line-height: 90px;
+	border-block-end-width: 50px;
+	border: 8px;
+	border-style: solid;
+	border-radius: 8px;
+	background-color: #FDECEF;
+	position: absolute;
+	left: 37%;
+	top: 70px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: black;
+	text-decoration: none;
+	transition: ease-in-out 200ms;
+	text-align: center;
+}
+
+.givehead:hover {
+	padding-left: 25px;
+	padding-right: 25px;
+	left: 36.6%;
+	background-color: rgb(136, 69, 136);
+}
+
+.blue-car {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	left: 15%;
+	top: 250px;
+	background-color: #124559;
+	object-fit: cover;
+	border-radius: 40px;
+	padding: 25px;
+	transition: ease-in-out 200ms;
+}
+
+.blue-car:hover {
+	padding: 0;
+	border: 10px;
+	border-color: black;
+	border-style: solid;
+}
+
+.text1 {
+	background-color: #F8FFE5;
+	border-radius: 20px;
+	left: 50%;
+	top: 250px;
+	position: absolute;
+	padding: 20px;
+	border: 10px rgb(29, 48, 124);
+	border-style: solid;
+	width: 500px;
+	height: 300px;
+}
+
+video {
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	top: 1150px;
+	left: 15%;
+}
+
+.table1 {
+	font-family: 'Squada One', cursive;
+	font-size: 80px;
+	border-radius: 20px;
+	left: 50%;
+	top: 250px;
+	position: absolute;
+	padding: 20px;
+	border: 10px rgb(29, 48, 124);
+	border-style: solid;
+	border-collapse: inherit;
+}
+
+.text2 {
+	font-family: 'Squada One', cursive;
+	font-size: 80px;
+	background-color: #F8FFE5;
+	border-radius: 20px;
+	left: 12%;
+	top: 700px;
+	position: absolute;
+	padding: 20px;
+	border: 10px rgb(189, 27, 27);
+	border-style: solid;
+}
+
+.text3 {
+	font-family: 'Squada One', cursive;
+	font-size: 80px;
+	color: white;
+	background-color: rgb(44, 44, 44);
+	border-radius: 20px;
+	left: 50%;
+	top: 1150px;
+	position: absolute;
+	padding: 20px;
+	border: 10px rgb(178, 189, 27);
+	border-style: solid;
+}
+
+.red-car {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	left: 55%;
+	top: 700px;
+	background-color: #124559;
+	object-fit: cover;
+	border-radius: 40px;
+	padding: 25px;
+	transition: ease-in-out 200ms;
+}
+
+.red-car:hover {
+	padding: 0;
+	border: 10px;
+	border-color: black;
+	border-style: solid;
+}
+
+.yellow-car {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	left: 15%;
+	top: 1150px;
+	background-color: #124559;
+	object-fit: cover;
+	border-radius: 40px;
+	padding: 25px;
+	transition: ease-in-out 200ms;
+	z-index:+1 ;
+}
+
+.yellow-car:hover {
+	padding: 0;
+	opacity: 0%;
+}
