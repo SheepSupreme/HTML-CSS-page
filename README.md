@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SheepSupreme
-- 👀 I’m interested in Python, Graph Algorithms and solving problems.
-<!---
-SheepSupreme/SheepSupreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About
+This is a project which I made in sometime in 2021.  
+It came together after learning HTML in school and learning CSS on my own.  
+From starting to learn HTML to the finished project it took roughly 3-4 weeks.
